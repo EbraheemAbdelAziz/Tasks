@@ -1,0 +1,47 @@
+
+.homeImg{
+    width: 100%;
+    margin-top: -3px;
+    
+}
+/* .rect{
+    display: inline-flex;
+    position: absolute;
+    
+} */
+
+.availableGames{
+    height: 650px;
+    background-color: #0C134F;
+    color: white;
+    text-align: center;
+}
+
+.game1{
+    width: 310px;
+    height: 400px;
+    padding-top: 60px;
+}
+
+.headerr{
+    padding-top: 30px;
+}
+
+.images{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: auto;
+}
+
+.third{
+    background-color: rgba(29, 38, 125, 1);
+    height: 650px;
+    width: 100%;
+}
+
+.about{
+    color: white;
+    text-align: center;
+    padding-top: 35px;
+}

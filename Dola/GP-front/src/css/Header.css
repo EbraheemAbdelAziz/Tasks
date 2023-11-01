@@ -1,0 +1,42 @@
+.header{
+    background-color: #0C134F;
+    color: white;
+}
+
+.logo{
+    color:white ;
+    padding : 0px 50px;
+}
+
+.badge{
+    background-color: #1D267D;
+    width: 150px;
+    display: inline;
+    height: 35px;
+    border-radius: 40px!important;
+    width: 80px;
+    margin-right: 35px;
+    
+}
+
+.badge img {
+    width: 25px;
+    height: 25px;
+    margin-right: 20px;
+}
+
+.badge p {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 50px;
+    margin-left: 35px;
+    
+}
+ .navContent{
+    padding: 0px 50px;
+ }
+
+.navContent .navbar-nav .nav-link {
+    padding-left: 50px;
+}
